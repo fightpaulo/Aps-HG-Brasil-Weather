@@ -3,7 +3,7 @@ Site criado em ASP.NET MVC 5 para a disciplina APS (Atividades Práticas Supervi
 
 ## O que foi "exercitado" durante a criação desse projeto?
 - Javascript
-- CSS 3
+- CSS 3 (principalmente a questão de posicionamento de elementos como o `loading spiner`)
 - Bootstrap
 - Generics no C#
 - Newtonsoft para serialização e desserialização de objetos JSON
